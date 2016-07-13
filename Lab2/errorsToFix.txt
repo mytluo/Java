@@ -1,0 +1,5 @@
+to fix:
+
+- determinant function initializing int det = 0; (gets overwritten with every recursion call)
+- find way to temporarily store lines; if break out of loop due to error == true, print lines to output 
+  so output still echoes input even if input is invalid
