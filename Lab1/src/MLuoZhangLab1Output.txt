@@ -1,0 +1,138 @@
+AAABBB is a valid L1 word.
+AAABBB is a valid L2 word.
+AAABBB is not a valid L3 word.
+AAABBB is a valid L4 word.
+AAABBB is not a valid L5 word.
+AAABBB is not a valid L6 word.
+AB is a valid L1 word.
+AB is a valid L2 word.
+AB is not a valid L3 word.
+AB is a valid L4 word.
+AB is not a valid L5 word.
+AB is not a valid L6 word.
+ is a valid L1 word.
+ is a valid L2 word.
+ is a valid L3 word.
+ is a valid L4 word.
+ is a valid L5 word.
+ is a valid L6 word.
+ABABABA is not a valid L1 word.
+ABABABA is not a valid L2 word.
+ABABABA is not a valid L3 word.
+ABABABA is not a valid L4 word.
+ABABABA is not a valid L5 word.
+ABABABA is a valid L6 word.
+ABAB is a valid L1 word.
+ABAB is not a valid L2 word.
+ABAB is not a valid L3 word.
+ABAB is a valid L4 word.
+ABAB is not a valid L5 word.
+ABAB is not a valid L6 word.
+BBAA is a valid L1 word.
+BBAA is not a valid L2 word.
+BBAA is not a valid L3 word.
+BBAA is not a valid L4 word.
+BBAA is a valid L5 word.
+BBAA is not a valid L6 word.
+BBBAA is not a valid L1 word.
+BBBAA is not a valid L2 word.
+BBBAA is not a valid L3 word.
+BBBAA is not a valid L4 word.
+BBBAA is not a valid L5 word.
+BBBAA is not a valid L6 word.
+AAB is not a valid L1 word.
+AAB is not a valid L2 word.
+AAB is not a valid L3 word.
+AAB is a valid L4 word.
+AAB is not a valid L5 word.
+AAB is not a valid L6 word.
+AABBCCD is not a valid L1 word.
+AABBCCD is not a valid L2 word.
+AABBCCD is not a valid L3 word.
+AABBCCD is not a valid L4 word.
+AABBCCD is not a valid L5 word.
+AABBCCD is not a valid L6 word.
+ABCBA is not a valid L1 word.
+ABCBA is not a valid L2 word.
+ABCBA is not a valid L3 word.
+ABCBA is not a valid L4 word.
+ABCBA is not a valid L5 word.
+ABCBA is a valid L6 word.
+ABBBA is not a valid L1 word.
+ABBBA is not a valid L2 word.
+ABBBA is not a valid L3 word.
+ABBBA is not a valid L4 word.
+ABBBA is not a valid L5 word.
+ABBBA is a valid L6 word.
+ABBA is a valid L1 word.
+ABBA is not a valid L2 word.
+ABBA is not a valid L3 word.
+ABBA is not a valid L4 word.
+ABBA is not a valid L5 word.
+ABBA is a valid L6 word.
+ABAABBAAABBB is a valid L1 word.
+ABAABBAAABBB is not a valid L2 word.
+ABAABBAAABBB is not a valid L3 word.
+ABAABBAAABBB is not a valid L4 word.
+ABAABBAAABBB is not a valid L5 word.
+ABAABBAAABBB is not a valid L6 word.
+AABACABAA is not a valid L1 word.
+AABACABAA is not a valid L2 word.
+AABACABAA is not a valid L3 word.
+AABACABAA is not a valid L4 word.
+AABACABAA is not a valid L5 word.
+AABACABAA is a valid L6 word.
+AABBBAABBB is not a valid L1 word.
+AABBBAABBB is not a valid L2 word.
+AABBBAABBB is not a valid L3 word.
+AABBBAABBB is a valid L4 word.
+AABBBAABBB is not a valid L5 word.
+AABBBAABBB is not a valid L6 word.
+AABBBB is not a valid L1 word.
+AABBBB is not a valid L2 word.
+AABBBB is a valid L3 word.
+AABBBB is a valid L4 word.
+AABBBB is not a valid L5 word.
+AABBBB is not a valid L6 word.
+BBA is not a valid L1 word.
+BBA is not a valid L2 word.
+BBA is not a valid L3 word.
+BBA is not a valid L4 word.
+BBA is not a valid L5 word.
+BBA is not a valid L6 word.
+BAAB is a valid L1 word.
+BAAB is not a valid L2 word.
+BAAB is not a valid L3 word.
+BAAB is not a valid L4 word.
+BAAB is not a valid L5 word.
+BAAB is a valid L6 word.
+BA is a valid L1 word.
+BA is not a valid L2 word.
+BA is not a valid L3 word.
+BA is not a valid L4 word.
+BA is a valid L5 word.
+BA is not a valid L6 word.
+ABCDCBA is not a valid L1 word.
+ABCDCBA is not a valid L2 word.
+ABCDCBA is not a valid L3 word.
+ABCDCBA is not a valid L4 word.
+ABCDCBA is not a valid L5 word.
+ABCDCBA is a valid L6 word.
+AAA is not a valid L1 word.
+AAA is not a valid L2 word.
+AAA is not a valid L3 word.
+AAA is a valid L4 word.
+AAA is not a valid L5 word.
+AAA is a valid L6 word.
+BBBBBB is not a valid L1 word.
+BBBBBB is not a valid L2 word.
+BBBBBB is not a valid L3 word.
+BBBBBB is a valid L4 word.
+BBBBBB is not a valid L5 word.
+BBBBBB is a valid L6 word.
+CCDDCC is not a valid L1 word.
+CCDDCC is not a valid L2 word.
+CCDDCC is not a valid L3 word.
+CCDDCC is not a valid L4 word.
+CCDDCC is not a valid L5 word.
+CCDDCC is a valid L6 word.
