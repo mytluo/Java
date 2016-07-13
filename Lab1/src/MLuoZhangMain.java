@@ -20,8 +20,9 @@ public class MLuoZhangMain
        * array so that it can be used to print to output file. It is only so
        * the original word can be written to the output file for clarity. 
        */
-      FileInputStream file = new FileInputStream
-            ("/MLuoZhangLab1/src/MLuoZhangLab1Input.txt");
+      String inFile;
+      String outFile;
+      FileInputStream file = new FileInputStream(inFile);
       DataInputStream input = new DataInputStream(file);
       BufferedReader br = new BufferedReader(new InputStreamReader(input));
       String strLine;
@@ -32,10 +33,8 @@ public class MLuoZhangMain
       file.close();
       
       // The start of the reading and parsing of each word in the input file 
-      reader = new BufferedReader(new FileReader
-            ("/MLuoZhangLab1/src/MLuoZhangLab1Input.txt"));
-      PrintWriter output = new PrintWriter
-            ("/MLuoZhangLab1/src/MLuoZhangLab1Output.txt");
+      reader = new BufferedReader(new FileReader(inFile));
+      PrintWriter output = new PrintWriter(outFile);
       
       int ch = reader.read(); //read input file one character at a time
       MLuoZhangStackLab1 test = new MLuoZhangStackLab1();
